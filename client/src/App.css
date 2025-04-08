@@ -1,0 +1,15 @@
+.app {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
